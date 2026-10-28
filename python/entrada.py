@@ -1,0 +1,6 @@
+print("------------practica------------")
+print("escribe una oracion usando al menos 3 inpts")
+a = inputs("escribe tu nombre")
+b = inputs("escribe tu comida favorita")
+c = ("escribe tu curso favorito")
+print("hola soy",a,"mi comida favorita es",b,"mi cruso favoritoes",c,"gracias.")
